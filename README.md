@@ -1,0 +1,2 @@
+# Student-Performance-Analyzer-System-Project
+🚀 This is my first project on GitHub. Student Performance Analyzer System is a Python-based application that analyzes student results by calculating totals, averages, percentages, grades, and rankings. It generates reports, identifies top performers, and showcases basic data analysis and problem-solving skills.
